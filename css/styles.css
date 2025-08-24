@@ -1689,6 +1689,12 @@ a {
   height: 1.8rem;
 }
 
+.brand-west {
+  object-fit: contain;
+  height: 3.7rem;
+  margin: 0 3rem 0 1rem;
+}
+
 .brand-ikom {
   background-color: #fafafa;
 }
@@ -2276,6 +2282,7 @@ a {
   line-height: 1.0;
   max-width: 1000px;
 }
+
 
 
 

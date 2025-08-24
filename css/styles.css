@@ -403,9 +403,9 @@ a {
   margin-left: 3rem;
   margin-top: 3rem;
   margin-bottom: 1rem;
-  font-size: 1.728rem;
+  font-size: 2rem;
   text-align: center;
-  color: #111;
+  color: white;
   font-weight: 500;
   font-style: italic;
 }
@@ -2276,5 +2276,6 @@ a {
   line-height: 1.0;
   max-width: 1000px;
 }
+
 
 

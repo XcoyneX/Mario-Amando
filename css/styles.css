@@ -1673,6 +1673,8 @@ a {
   margin: 2rem 0 0 0;
   overflow: hidden;
   white-space: nowrap;
+  position: relative;
+  z-index: 10001;
 }
 
 /* work on typography so the brands become bigger on wider screens */
@@ -1685,6 +1687,22 @@ a {
   margin: 0 2rem 0 0;
   object-fit: fill;
   height: 1.8rem;
+}
+
+.brand-ikom {
+  background-color: #fafafa;
+}
+
+.brand-drew, 
+.brand-ikom {
+  object-fit: fill;
+  height: 3rem;
+  margin: 0 2rem 0 0;
+}
+
+.brand-drew {
+  background-color: white;
+  width: fit-content;
 }
 
 @media screen and (min-width: 1024px) {
@@ -2257,6 +2275,6 @@ a {
   overflow: visible;
   line-height: 1.0;
   max-width: 1000px;
-  font-size: 3rem;
 }
+
 

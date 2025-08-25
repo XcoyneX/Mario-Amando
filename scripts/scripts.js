@@ -4,24 +4,13 @@ function copyEmail() {
 }
 
 // [+] Algorithms for endless Logo brand horizontal scroll
-const brandContainer = document.querySelector(".brand-logo");
-const brandClone = brandContainer.cloneNode(true);
-document.querySelector(".brand").appendChild(brandClone);
+const brandSections = document.querySelectorAll(".brand-logo");
 
-// [+] Algorithms for next and previous buttons
-let next = document.querySelector(".next");
-let previous = document.querySelector(".prev");
-let slider = document.querySelector(".slider");
-
-next.addEventListener("click", function () {
-  let slides = document.querySelectorAll(".slides");
-  slider.appendChild(slides[0]);
+brandSections.forEach(section => {
+  const clone = section.cloneNode(true); // clone each section
+  section.parentElement.appendChild(clone); // append clone after the original
 });
 
-previous.addEventListener("click", function () {
-  let slides = document.querySelectorAll(".slides");
-  slider.prepend(slides[slides.length - 1]);
-});
 
 function animateCountUp() {
   const counters = document.querySelectorAll(".count");

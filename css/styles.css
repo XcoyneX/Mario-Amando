@@ -214,6 +214,10 @@ a {
 .arrow-content {
   font-size: 1.5rem;
   font-weight: 200;
+  background: #222;
+  color: white;
+  position: relative;
+  z-index: 10001;
 }
 
 .arrow {
@@ -2301,6 +2305,7 @@ label.label--titles {
   line-height: 1.0;
   max-width: 1000px;
 }
+
 
 
 

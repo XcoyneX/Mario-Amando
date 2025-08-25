@@ -42,6 +42,10 @@ body {
   height: fit-content;
 }
 
+input::placeholder {
+  color: #555;
+}
+
 .noise::before {
   position: fixed;
   top: 0;
@@ -97,6 +101,7 @@ a {
   font-family: "Inter", sans-serif;
   font-weight: 400;
   font-style: normal;
+  color: #222;
 }
 
 @media screen and (min-width: 1024px) {
@@ -2047,6 +2052,16 @@ a {
   color: #cccccc70;
 }
 
+input.label-detail, 
+select.label-detail {
+  color: #222;  /* ensure readable text color */
+  background-color: #fff; /* strong contrast with text */
+}
+
+label.label--titles {
+  color: #111; /* ensure darker labels */
+}
+
 .label-detail {
   background: inherit;
   border-bottom: 1px solid #ccc;
@@ -2283,6 +2298,7 @@ a {
   line-height: 1.0;
   max-width: 1000px;
 }
+
 
 
 

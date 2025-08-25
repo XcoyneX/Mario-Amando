@@ -516,6 +516,8 @@ a {
   margin: 0;
   letter-spacing: -0.02em;
   white-space: pre-line;
+  position: relative;
+  z-index: 10001;
 }
 
 .holder {
@@ -2300,6 +2302,7 @@ label.label--titles {
   line-height: 1.0;
   max-width: 1000px;
 }
+
 
 
 

@@ -13,16 +13,9 @@
   --color-btn-bg: #fff;
   --color-btn-text: #f8f8f8da;
   --color-input-bg: rgb(241, 240, 239);
-  --color-email-bg: #f1f0ef;
-  --color-main: #f2f2f2;
-  --color-body: #f7f7f7;
-  --color-footer: #e9e9e9;
   --color-primary: #242424;
   --color-secondary: #ccc;
-  --color-headings: #fafafa;
-  --color-text: #918ca4;
   --color-border-color: rgb(236, 235, 234);
-  --border-radius: 1000px;
   --btn-border-radius: 47px;
 }
 
@@ -53,7 +46,6 @@ input::placeholder {
   width: 100vw;
   height: 100vh;
   content: "";
-  /* you can control opacity of noise  */
   opacity: 0.1;
   z-index: 1000;
   pointer-events: none;
@@ -726,6 +718,7 @@ a {
   margin-bottom: 0px; /* Add margin for spacing between items */
   position: relative;
   z-index: 10001;
+  height: 95vh;
 }
 
 .item:hover {
@@ -2307,6 +2300,7 @@ label.label--titles {
   line-height: 1.0;
   max-width: 1000px;
 }
+
 
 
 

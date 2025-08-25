@@ -2054,12 +2054,12 @@ a {
 
 input.label-detail, 
 select.label-detail {
-  color: #222;  /* ensure readable text color */
-  background-color: #fff; /* strong contrast with text */
+  color: #222; 
+  background-color: #fff;
 }
 
 label.label--titles {
-  color: #111; /* ensure darker labels */
+  color: #111;
 }
 
 .label-detail {
@@ -2298,6 +2298,7 @@ label.label--titles {
   line-height: 1.0;
   max-width: 1000px;
 }
+
 
 
 

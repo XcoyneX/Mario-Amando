@@ -1595,14 +1595,14 @@ a {
 
 .who-i-am .portrait {
   width: 100%;
-  height: auto;
+  height: 80vh;
   display: block;
   border-radius: 5px;
   object-fit: contain;
 }
 
 .who-i-am .section-heading {
-  font-size: 3rem;
+  font-size: 3.5rem;
   margin: 1rem 0 0 0;
 }
 
@@ -2323,6 +2323,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

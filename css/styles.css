@@ -2237,17 +2237,28 @@ select.label-detail {
   left: 0;
   right: 0;
   bottom: 0;
-  width: 100vw;
+  width: fit-content;
   height: 70vh;
   color: white;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  overflow: hidden;
 }
 
 .controls {
   margin: 1rem 2rem;
   display: flex;
   justify-content: space-between;
+  overflow: hidden;
+  max-width: fit-content;
+  width: 95vw;
+}
+
+/* flexible layout on mobile for footer */
+@media screen and (min-width: 650px) {
+  .controls {
+    flex-direction: column;
+  }
 }
 
 .graps {
@@ -2311,6 +2322,7 @@ select.label-detail {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

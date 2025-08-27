@@ -1943,6 +1943,9 @@ a {
 
 .hero--contact {
   line-height: 1;
+  color: white;
+  position: relative;
+  z-index: 10001;
 }
 
 .phone--details,
@@ -2303,6 +2306,7 @@ label.label--titles {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

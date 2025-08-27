@@ -530,6 +530,23 @@ a {
   margin-bottom: 5rem;
 }
 
+.showcase .envelop {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.showcase .gentil {
+  width: fit-content;
+  height: 50vh;
+  object-fit: contain;
+  border-radius: 1rem;
+  position: relative;
+  z-index: 10001;
+  border: 1px solid white;
+}
+
 .left {
   flex: 1 1 60%;
 }
@@ -1554,66 +1571,11 @@ a {
   margin: 5.5rem;
 }
 
-.why-i-exist .who-i-am {
-  margin: 1rem 4rem;
-}
-
-.why-i-exist .him {
-  margin: 1rem 4rem;
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial;
-  position: relative;
-  z-index: 10001;
-  font-weight: 200;
-}
-
 .who-i-am-mobile {
   display: none;
 }
 
-.who-i-am {
-  display: flex;
-  justify-content: start;
-  gap: 5rem;
-  position: relative;
-  height: 210vh;
-}
-
-.who-i-am .portrait {
-  width: 100%;
-  max-height: 75vh;
-  height: fit-content;
-  border-radius: 5px;
-  object-fit: contain;
-  display: block;
-  position: sticky;
-  left: 0;
-  top: 0;
-  z-index: 10001;
-}
-
-.who-i-am .section-heading {
-  font-size: 3.5rem;
-  margin: 1rem 0 0 0;
-}
-
-.who-i-am .section-content,
-.who-i-am .section-heading {
-  color: #fafafa;
-}
-
-.who-i-am .section-content {
-  font-size: 2.9rem;
-  margin: 0;
-  padding: 0;
-  font-weight: 100;
-}
-
 @media screen and (max-width: 950px) {
-  .who-i-am {
-    display: none;
-  }
-
   .who-i-am-mobile {
     display: flex;
     flex-direction: column;
@@ -2314,6 +2276,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

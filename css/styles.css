@@ -34,7 +34,6 @@ body {
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
     "Helvetica Neue", Arial;
   overflow-x: hidden;
-  height: fit-content;
 }
 
 .noise::before {
@@ -2324,6 +2323,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

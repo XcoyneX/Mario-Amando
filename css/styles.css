@@ -2234,7 +2234,7 @@ select.label-detail {
   background: #222;
   position: relative;
   z-index: 10001;
-  width: fit-content;
+  width: 100vw;
   height: fit-content;
   color: white;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -2323,6 +2323,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

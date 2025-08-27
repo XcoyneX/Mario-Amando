@@ -2238,7 +2238,7 @@ select.label-detail {
   right: 0;
   bottom: 0;
   width: fit-content;
-  height: 70vh;
+  height: fit-content;
   color: white;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -2322,6 +2322,7 @@ select.label-detail {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

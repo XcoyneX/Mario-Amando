@@ -1612,7 +1612,7 @@ a {
 }
 
 .who-i-am .section-content {
-  font-size: 2rem;
+  font-size: 2.9rem;
   margin: 0;
   padding: 0;
   font-weight: 100;
@@ -2323,6 +2323,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

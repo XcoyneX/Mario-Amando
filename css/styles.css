@@ -35,10 +35,6 @@ body {
   height: fit-content;
 }
 
-input::placeholder {
-  color: #555;
-}
-
 .noise::before {
   position: fixed;
   top: 0;
@@ -2306,6 +2302,7 @@ label.label--titles {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

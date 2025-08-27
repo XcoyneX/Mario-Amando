@@ -1629,6 +1629,11 @@ a {
     gap: 2rem;
   }
 
+  /* Perfect spacing between descriptions */
+  .who-i-am-mobile .section-description {
+    margin: 0.7rem 0;
+  }
+
   .mobile-photo {
     width: 100%;
     max-width: 100%;
@@ -2305,6 +2310,7 @@ select.label-detail {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

@@ -2259,7 +2259,7 @@ select.label-detail {
   .controls {
     flex-direction: column;
     align-items: center;
-    text-align-center;
+    text-align: center;
   }
 }
 
@@ -2326,6 +2326,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

@@ -661,6 +661,9 @@ a {
   font-size: 2rem;
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
     "Helvetica Neue", Arial;
+  color: #FAFAFA;
+  position: relative;
+  z-index:10001;
 }
 
 @media screen and (min-width: 1024px) {
@@ -2300,6 +2303,7 @@ select.label-detail {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

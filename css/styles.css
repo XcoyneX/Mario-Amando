@@ -1626,6 +1626,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 2rem;
   }
 
   .mobile-photo {
@@ -1653,11 +1654,11 @@ a {
   }
 
   .who-i-am-mobile .section-heading {
-    font-size: 3rem;
+    font-size: 2rem;
     color: #fafafa;
-    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 900;
-    font-style: italic;
+    width: fit-content;
   }
 
   .who-i-am-mobile .section-heading,
@@ -2302,6 +2303,7 @@ select.label-detail {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

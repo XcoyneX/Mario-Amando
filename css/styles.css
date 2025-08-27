@@ -242,6 +242,7 @@ a {
 
 .curious .see-more {
   font-size: 2rem;
+  color: white;
 }
 
 .see-more {
@@ -2310,6 +2311,7 @@ select.label-detail {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

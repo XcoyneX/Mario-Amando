@@ -2321,7 +2321,10 @@ select.label-detail {
   padding: 0;
   overflow: visible;
   max-width: 1000px;
+  height: fit-content;
+  line-height: 0.9;
 }
+
 
 
 

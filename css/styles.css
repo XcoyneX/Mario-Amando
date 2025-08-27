@@ -1667,10 +1667,12 @@ a {
   }
 
   .who-i-am-mobile .section-content {
-    font-size: 2rem;
+    font-size: 1.2rem;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
     color: #fafafa;
     font-weight: 100;
+    position: relative;
+    z-index: 10001;
   }
 }
 
@@ -2303,6 +2305,7 @@ select.label-detail {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

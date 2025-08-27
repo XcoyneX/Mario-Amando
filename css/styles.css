@@ -405,7 +405,6 @@ a {
   text-align: center;
   color: white;
   font-weight: 500;
-  font-style: italic;
 }
 
 .left-nav a {
@@ -2303,6 +2302,7 @@ select.label-detail {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

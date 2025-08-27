@@ -2255,9 +2255,11 @@ select.label-detail {
 }
 
 /* flexible layout on mobile for footer */
-@media screen and (min-width: 650px) {
+@media screen and (max-width: 650px) {
   .controls {
     flex-direction: column;
+    align-items: center;
+    text-align-center;
   }
 }
 
@@ -2324,6 +2326,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

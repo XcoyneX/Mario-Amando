@@ -2052,16 +2052,14 @@ a {
 .label--titles {
   font-size: 1.5rem;
   display: block;
-  color: #cccccc70;
+  color: #FAFAFA;
+  position: relative;
+  z-index: 10001;
 }
 
 input.label-detail, 
 select.label-detail {
   color: #222;
-}
-
-label.label--titles {
-  color: #111;
 }
 
 .label-detail {
@@ -2302,6 +2300,7 @@ label.label--titles {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

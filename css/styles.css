@@ -2045,6 +2045,9 @@ a {
 
 .contact--heading {
   padding-bottom: 1rem;
+  color: white;
+  position: relative;
+  z-index: 10011;
 }
 
 .label--titles {
@@ -2300,6 +2303,7 @@ label.label--titles {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

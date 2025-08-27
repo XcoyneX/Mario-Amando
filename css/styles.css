@@ -43,7 +43,7 @@ body {
   width: 100vw;
   height: 100vh;
   content: "";
-  opacity: 0.1;
+  opacity: 0.04;
   z-index: 1000;
   pointer-events: none;
   background: url("/noise.gif");
@@ -2314,6 +2314,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

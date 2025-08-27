@@ -2229,14 +2229,10 @@ select.label-detail {
 }
 
 .end {
-  margin: 0;
   padding: 2rem;
   background: #222;
   position: relative;
   z-index: 10001;
-  left: 0;
-  right: 0;
-  bottom: 0;
   width: fit-content;
   height: fit-content;
   color: white;
@@ -2250,8 +2246,7 @@ select.label-detail {
   display: flex;
   justify-content: space-between;
   overflow: hidden;
-  max-width: fit-content;
-  width: 95vw;
+  width: fit-content;
 }
 
 /* flexible layout on mobile for footer */
@@ -2327,6 +2322,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

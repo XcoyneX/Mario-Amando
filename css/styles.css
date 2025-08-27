@@ -2260,6 +2260,7 @@ select.label-detail {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    gap: 3rem;
   }
 }
 
@@ -2326,6 +2327,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

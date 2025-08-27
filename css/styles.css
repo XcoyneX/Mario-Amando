@@ -2055,8 +2055,7 @@ a {
 
 input.label-detail, 
 select.label-detail {
-  color: #222; 
-  background-color: #fff;
+  color: #222;
 }
 
 label.label--titles {
@@ -2301,6 +2300,7 @@ label.label--titles {
   overflow: visible;
   max-width: 1000px;
 }
+
 
 
 

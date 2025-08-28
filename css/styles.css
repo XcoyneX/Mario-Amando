@@ -1025,38 +1025,22 @@ a {
 }
 
 .item-LXXVII {
-  background-image: url("../projects/AXIS/002.jpg");
-}
-
-.item-LXXVIII {
-  background-image: url("../projects/AXIS/003.jpg");
-}
-
-.item-LXXIX {
-  background-image: url("../projects/AXIS/004.jpg");
-}
-
-.item-LXXX {
   background-image: url("../projects/AXIS/005.jpg");
 }
 
-.item-LXXXI {
+.item-LXXVIII {
   background-image: url("../projects/AXIS/006.jpg");
 }
 
-.item-LXXXII {
-  background-image: url("../projects/AXIS/007.jpg");
-}
-
-.item-LXXXIII {
+.item-LXXIX {
   background-image: url("../projects/AXIS/008.jpg");
 }
 
-.item-LXXXIV {
-  background-image: url("../projects/AXIS/009.jpg");
+.item-LXXX {
+  background-image: url("../projects/AXIS/007.jpg");
 }
 
-.item-LXXXV {
+.item-LXXXI {
   background-image: url("../projects/AXIS/010.jpg");
 }
 
@@ -2204,6 +2188,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

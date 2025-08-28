@@ -983,27 +983,27 @@ a {
 
 /* THE ORBIS */
 .item-LV {
-  background-image: url("../projects/ORBIS/001.jpg");
-}
-
-.item-LVI {
-  background-image: url("../projects/ORBIS/002.jpg");
-}
-
-.item-LVII {
   background-image: url("../projects/ORBIS/003.jpg");
 }
 
+.item-LVI {
+  background-image: url("../projects/ORBIS/009.jpg");
+}
+
+.item-LVII {
+  background-image: url("../projects/ORBIS/010.jpg");
+}
+
 .item-LVIII {
-  background-image: url("../projects/ORBIS/004.jpg");
+  background-image: url("../projects/ORBIS/006.jpg");
 }
 
 .item-LIX {
-  background-image: url("../projects/ORBIS/005.jpg");
+  background-image: url("../projects/ORBIS/001.jpg");
 }
 
 .item-LX {
-  background-image: url("../projects/ORBIS/006.jpg");
+  background-image: url("../projects/ORBIS/008.jpg");
 }
 
 /* OBLIQUE */
@@ -2232,6 +2232,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

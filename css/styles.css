@@ -1006,26 +1006,6 @@ a {
   background-image: url("../projects/ORBIS/006.jpg");
 }
 
-.item-LXI {
-  background-image: url("../projects/ORBIS/007.jpg");
-}
-
-.item-LXII {
-  background-image: url("../projects/ORBIS/008.jpg");
-}
-
-.item-LXIII {
-  background-image: url("../projects/ORBIS/009.jpg");
-}
-
-.item-LXIV {
-  background-image: url("../projects/ORBIS/010.jpg");
-}
-
-.item-LXV {
-  background-image: url("../projects/ORBIS/011.jpg");
-}
-
 /* OBLIQUE */
 .item-LXVI {
   background-image: url("../projects/OBLIQUE/001.jpg");
@@ -2252,6 +2232,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

@@ -873,50 +873,22 @@ a {
 }
 
 .item-XXVIII {
-  background-image: url("../projects/AURA/002.jpg");
-}
-
-.item-XXIX {
-  background-image: url("../projects/AURA/003.jpg");
-}
-
-.item-XXX {
-  background-image: url("../projects/AURA/004.jpg");
-}
-
-.item-XXXI {
   background-image: url("../projects/AURA/005.jpg");
 }
 
-.item-XXXII {
-  background-image: url("../projects/AURA/006.jpg");
+.item-XXIX {
+  background-image: url("../projects/AURA/004.jpg");
 }
 
-.item-XXXIII {
+.item-XXX {
+  background-image: url("../projects/AURA/002.jpg");
+}
+
+.item-XXXI {
   background-image: url("../projects/AURA/007.jpg");
 }
 
-.item-XXXIV {
-  background-image: url("../projects/AURA/008.jpg");
-}
-
-.item-XXXV {
-  background-image: url("../projects/AURA/009.jpg");
-}
-
-.item-XXXVI {
-  background-image: url("../projects/AURA/010.jpg");
-}
-
-.item-XXXVII {
-  background-image: url("../projects/AURA/011.jpg");
-}
-
-.item-XXXVIII {
-  background-image: url("../projects/AURA/012.jpg");
-}
-
-.item-XXXIX {
+.item-XXXII {
   background-image: url("../projects/AURA/013.jpg");
 }
 
@@ -2232,6 +2204,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

@@ -791,15 +791,15 @@ a {
 }
 
 .item-II {
-  background-image: url("../projects/ZORA_CREST/007.jpg");
+  background-image: url("../projects/ZORA_CREST/015.jpg");
 }
 
 .item-III {
-  background-image: url("../projects/ZORA_CREST/014.jpg");
+  background-image: url("../projects/ZORA_CREST/013.jpg");
 }
 
 .item-IV {
-  background-image: url("../projects/ZORA_CREST/011.jpg");
+  background-image: url("../projects/ZORA_CREST/014.jpg");
 }
 
 .item-V {
@@ -807,30 +807,6 @@ a {
 }
 
 .item-VI {
-  background-image: url("../projects/ZORA_CREST/013.jpg");
-}
-
-.item-VII {
-  background-image: url("../projects/ZORA_CREST/015.jpg");
-}
-
-.item-VIII {
-  background-image: url("../projects/ZORA_CREST/001.jpg");
-}
-
-.item-IX {
-  background-image: url("../projects/ZORA_CREST/007.jpg");
-}
-
-.item-X {
-  background-image: url("../projects/ZORA_CREST/002.jpg");
-}
-
-.item-XI {
-  background-image: url("../projects/ZORA_CREST/003.jpg");
-}
-
-.item-XII {
   background-image: url("../projects/ZORA_CREST/016.jpg");
 }
 
@@ -2276,6 +2252,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

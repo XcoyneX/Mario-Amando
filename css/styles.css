@@ -1150,6 +1150,8 @@ a {
   background-image: url("../projects/ECLIPSE/004.jpg");
 }
 
+
+/* HAVEN */
 .item-39 {
   background-image: url("../projects/HAVEN/001.jpg");
 }
@@ -1170,6 +1172,7 @@ a {
   background-image: url("../projects/HAVEN/005.jpg");
 }
 
+/* KELLZ */
 .item-44 {
   background-image: url("../projects/KELLZ/001.jpg");
 }
@@ -2136,6 +2139,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

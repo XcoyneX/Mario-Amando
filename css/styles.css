@@ -1146,33 +1146,26 @@ a {
 }
 
 .item-45 {
-  background-image: url("../projects/KELLZ/002.jpg");
-}
-
-.item-46 {
-  background-image: url("../projects/KELLZ/003.jpg");
-}
-
-.item-47 {
-  background-image: url("../projects/KELLZ/004.jpg");
-}
-
-.item-48 {
-  background-image: url("../projects/KELLZ/005.jpg");
-}
-
-.item-49 {
   background-image: url("../projects/KELLZ/006.jpg");
 }
 
-.item-50 {
-  background-image: url("../projects/KELLZ/007.jpg");
+.item-46 {
+  background-image: url("../projects/KELLZ/005.jpg");
 }
 
-.item-51 {
+.item-47 {
+  background-image: url("../projects/KELLZ/002.jpg");
+}
+
+.item-48 {
+  background-image: url("../projects/KELLZ/004.jpg");
+}
+
+.item-49 {
   background-image: url("../projects/KELLZ/008.jpg");
 }
 
+/* INTERSECT */
 .item-52 {
   background-image: url("../projects/INTERSECT/001.jpg");
 }
@@ -2107,6 +2100,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

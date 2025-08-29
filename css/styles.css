@@ -944,43 +944,27 @@ a {
 
 /* OBLIQUE */
 .item-LXVI {
-  background-image: url("../projects/OBLIQUE/001.jpg");
-}
-
-.item-LXVII {
-  background-image: url("../projects/OBLIQUE/002.jpg");
-}
-
-.item-LXVIII {
   background-image: url("../projects/OBLIQUE/003.jpg");
 }
 
-.item-LXIX {
-  background-image: url("../projects/OBLIQUE/004.jpg");
-}
-
-.item-LXX {
-  background-image: url("../projects/OBLIQUE/005.jpg");
-}
-
-.item-LXXI {
-  background-image: url("../projects/OBLIQUE/006.jpg");
-}
-
-.item-LXXII {
-  background-image: url("../projects/OBLIQUE/007.jpg");
-}
-
-.item-LXXIII {
-  background-image: url("../projects/OBLIQUE/008.jpg");
-}
-
-.item-LXXIV {
+.item-LXVII {
   background-image: url("../projects/OBLIQUE/009.jpg");
 }
 
-.item-LXXV {
+.item-LXVIII {
   background-image: url("../projects/OBLIQUE/010.jpg");
+}
+
+.item-LXIX {
+  background-image: url("../projects/OBLIQUE/006.jpg");
+}
+
+.item-LXX {
+  background-image: url("../projects/OBLIQUE/001.jpg");
+}
+
+.item-LXXI {
+  background-image: url("../projects/OBLIQUE/008.jpg");
 }
 
 /* AXIS GROOVE */
@@ -2152,6 +2136,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

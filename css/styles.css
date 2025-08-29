@@ -894,7 +894,7 @@ a {
 
 /* GRAND PALLADIAN */
 .item-XL {
-  background-image: url("../projects/GRAND/001.jpg");
+  background-image: url("../projects/GRAND/012.jpg");
 }
 
 .item-XLI {
@@ -902,55 +902,19 @@ a {
 }
 
 .item-XLII {
-  background-image: url("../projectS/GRAND/003.jpg");
+  background-image: url("../projectS/GRAND/008.jpg");
 }
 
 .item-XLIII {
-  background-image: url("../projects/GRAND/004.jpg");
+  background-image: url("../projects/GRAND/009.jpg");
 }
 
 .item-XLIV {
-  background-image: url("../projectS/GRAND/005.jpg");
+  background-image: url("../projectS/GRAND/010.jpg");
 }
 
 .item-XLV {
-  background-image: url("../projects/GRAND/006.jpg");
-}
-
-.item-XLVI {
-  background-image: url("../projects/GRAND/007.jpg");
-}
-
-.item-XLVII {
-  background-image: url("../projects/GRAND/008.jpg");
-}
-
-.item-XLVIII {
-  background-image: url("../projectS/GRAND/009.jpg");
-}
-
-.item-XLIX {
-  background-image: url("../projects/GRAND/010.jpg");
-}
-
-.item-L {
-  background-image: url("../projects/GRAND/011.jpg");
-}
-
-.item-LI {
-  background-image: url("../projects/GRAND/012.jpg");
-}
-
-.item-LII {
-  background-image: url("../projects/GRAND/013.jpg");
-}
-
-.item-LIII {
-  background-image: url("../projects/GRAND/014.jpg");
-}
-
-.item-LIV {
-  background-image: url("../projects/GRAND/015.jpg");
+  background-image: url("../projects/GRAND/001.jpg");
 }
 
 /* THE ORBIS */
@@ -2188,6 +2152,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

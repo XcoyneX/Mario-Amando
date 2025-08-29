@@ -812,59 +812,27 @@ a {
 
 /* VISTARA */
 .item-XIII {
-  background-image: url("../projects/VISTARA/001.jpg");
-}
-
-.item-XIV {
-  background-image: url("../projects/VISTARA/002.jpg");
-}
-
-.item-XV {
-  background-image: url("../projects/VISTARA/003.jpg");
-}
-
-.item-XVI {
-  background-image: url("../projects/VISTARA/004.jpg");
-}
-
-.item-XVII {
   background-image: url("../projects/VISTARA/005.jpg");
 }
 
-.item-XVIII {
+.item-XIV {
+  background-image: url("../projects/VISTARA/004.jpg");
+}
+
+.item-XV {
+  background-image: url("../projects/VISTARA/001.jpg");
+}
+
+.item-XVI {
   background-image: url("../projects/VISTARA/006.jpg");
 }
 
-.item-XIX {
-  background-image: url("../projects/VISTARA/007.jpg");
+.item-XVII {
+  background-image: url("../projects/VISTARA/002.jpg");
 }
 
-.item-XX {
+.item-XVIII {
   background-image: url("../projects/VISTARA/008.jpg");
-}
-
-.item-XXI {
-  background-image: url("../projects/VISTARA/009.jpg");
-}
-
-.item-XXII {
-  background-image: url("../projects/VISTARA/010.jpg");
-}
-
-.item-XXIII {
-  background-image: url("../projects/VISTARA/011.jpg");
-}
-
-.item-XXIV {
-  background-image: url("../projects/VISTARA/012.jpg");
-}
-
-.item-XXV {
-  background-image: url("../projects/VISTARA/013.jpg");
-}
-
-.item-XXVI {
-  background-image: url("../projects/VISTARA/014.jpg");
 }
 
 /* AURA MANOR */
@@ -2139,6 +2107,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

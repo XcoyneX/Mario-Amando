@@ -1167,27 +1167,27 @@ a {
 
 /* INTERSECT */
 .item-52 {
-  background-image: url("../projects/INTERSECT/001.jpg");
-}
-
-.item-53 {
-  background-image: url("../projects/INTERSECT/002.jpg");
-}
-
-.item-54 {
-  background-image: url("../projects/INTERSECT/003.jpg");
-}
-
-.item-55 {
   background-image: url("../projects/INTERSECT/004.jpg");
 }
 
+.item-53 {
+  background-image: url("../projects/INTERSECT/003.jpg");
+}
+
+.item-54 {
+  background-image: url("../projects/INTERSECT/013.jpg");
+}
+
+.item-55 {
+  background-image: url("../projects/INTERSECT/009.jpg");
+}
+
 .item-56 {
-  background-image: url("../projects/INTERSECT/006.jpg");
+  background-image: url("../projects/INTERSECT/001.jpg");
 }
 
 .item-57 {
-  background-image: url("../projects/INTERSECT/005.jpg");
+  background-image: url("../projects/INTERSECT/004.jpg");
 }
 
 /* Intersect dark visual */
@@ -2068,6 +2068,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

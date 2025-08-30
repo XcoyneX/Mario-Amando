@@ -1020,11 +1020,11 @@ a {
 
 /* Project Cubes */
 .item-15 {
-  background-image: url("../projects/CUBES/001.jpg");
+  background-image: url("../projects/CUBES/002.jpg");
 }
 
 .item-16 {
-  background-image: url("../projects/CUBES/002.jpg");
+  background-image: url("../projects/CUBES/006.jpg");
 }
 
 .item-17 {
@@ -1036,11 +1036,11 @@ a {
 }
 
 .item-19 {
-  background-image: url("../projects/CUBES/005.jpg");
+  background-image: url("../projects/CUBES/001.jpg");
 }
 
 .item-20 {
-  background-image: url("../projects/CUBES/006.jpg");
+  background-image: url("../projects/CUBES/005.jpg");
 }
 
 /* Project Cuboid */
@@ -1057,7 +1057,7 @@ a {
 }
 
 .item-24 {
-  background-image: url("../projects/CUBOID/004.jpg");
+  background-image: url("../projects/CUBOID/006.jpg");
 }
 
 .item-25 {
@@ -1065,7 +1065,7 @@ a {
 }
 
 .item-26 {
-  background-image: url("../projects/CUBOID/006.jpg");
+  background-image: url("../projects/CUBOID/004.jpg");
 }
 
 /* Project Cipher */
@@ -1190,61 +1190,29 @@ a {
   background-image: url("../projects/INTERSECT/006.jpg");
 }
 
-.item-58 {
-  background-image: url("../projects/INTERSECT/007.jpg");
-}
-
-.item-59 {
-  background-image: url("../projects/INTERSECT/008.jpg");
-}
-
-.item-60 {
-  background-image: url("../projects/INTERSECT/009.jpg");
-}
-
-.item-61 {
-  background-image: url("../projects/INTERSECT/010.jpg");
-}
-
-.item-62 {
-  background-image: url("../projects/INTERSECT/011.jpg");
-}
-
 /* Intersect dark visual */
 .item-63 {
-  background-image: url("../projects/INTERSECT/016.jpg");
-}
-
-.item-64 {
   background-image: url("../projects/INTERSECT/017.jpg");
 }
 
-.item-65 {
+.item-64 {
   background-image: url("../projects/INTERSECT/018.jpg");
 }
 
+.item-65 {
+  background-image: url("../projects/INTERSECT/016.jpg");
+}
+
 .item-66 {
-  background-image: url("../projects/INTERSECT/019.jpg");
-}
-
-.item-67 {
-  background-image: url("../projects/INTERSECT/020.jpg");
-}
-
-.item-68 {
-  background-image: url("../projects/INTERSECT/021.jpg");
-}
-
-.item-69 {
-  background-image: url("../projects/INTERSECT/022.jpg");
-}
-
-.item-70 {
   background-image: url("../projects/INTERSECT/023.jpg");
 }
 
-.item-71 {
-  background-image: url("../projects/INTERSECT/024.jpg");
+.item-67 {
+  background-image: url("../projects/INTERSECT/019.jpg");
+}
+
+.item-68 {
+  background-image: url("../projects/INTERSECT/022.jpg");
 }
 
 .ri-instagram-fill {
@@ -2100,6 +2068,7 @@ select.label-detail {
   height: fit-content;
   line-height: 0.9;
 }
+
 
 
 

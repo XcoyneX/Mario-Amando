@@ -1747,18 +1747,6 @@ a {
     font-style: normal;
 }
 
-/* PLACEHOLDERS (optional – can delete later) */
-.first,
-.second {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 75vh;
-}
-
-.first { background-color: burlywood; }
-.second { background-color: cornsilk; }
-
 /* ===========================
    CONTACT / CLOSURE SECTION
 =========================== */
@@ -1981,5 +1969,6 @@ button {
         padding: 3rem 1.5rem;
     }
 }
+
 
 

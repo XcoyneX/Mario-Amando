@@ -1870,8 +1870,10 @@ button {
 
 .conclude {
     background-color: #EFEFEF;
+  /*
     border-top-left-radius: 5rem;
     border-top-right-radius: 5rem;
+  */
     padding: 4rem 2rem;
 }
 
@@ -1969,6 +1971,7 @@ button {
         padding: 3rem 1.5rem;
     }
 }
+
 
 
 

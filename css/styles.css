@@ -24,7 +24,7 @@ html {
 }
 
 body {
-  background-color: #F8F8F8;
+  background-color: #111;
   width: 100vw;
   height: fit-content;
   font-size: 62.5%;
@@ -1971,6 +1971,7 @@ button {
         padding: 3rem 1.5rem;
     }
 }
+
 
 
 

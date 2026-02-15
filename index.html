@@ -1230,15 +1230,16 @@
           >
           <!-- Full name -->
           <article class="name">
-            <label>Full name</label>
-            <input type="text" placeholder="Mario Amando" class="request" />
+            <label for="full name">Full name</label>
+            <input type="text" id="text" placeholder="Mario Amando" class="request" />
           </article>
 
           <!-- Email -->
           <article class="inbox">
-            <label>Email</label>
+            <label for="email">Email</label>
             <input
               type="email"
+              id="email"
               placeholder="marioamando@gmail.com"
               class="request"
             />
@@ -1246,7 +1247,7 @@
 
           <!-- Budget -->
           <article class="budget">
-            <label>Budget</label>
+            <label for="budget">Budget</label>
             <select class="request">
               <option>Select your budget range</option>
               <option>
@@ -1270,13 +1271,13 @@
 
           <!-- Phone -->
           <article class="phone">
-            <label>Phone</label>
-            <input type="tel" placeholder="233559599154" class="request" />
+            <label for="Phones">Phone</label>
+            <input type="tel" id="Phone" placeholder="233559599154" class="request" />
           </article>
 
           <!-- Project -->
           <article class="project">
-            <label>Project</label>
+            <label for="Projects">Project</label>
             <select class="request">
               <option>Residential</option>
               <option>Commercial</option>
@@ -1287,7 +1288,7 @@
 
           <!-- Reach out -->
           <article class="message">
-            <label>Send us a message</label>
+            <label for="Message">Send us a message</label>
             <textarea
               placeholder="Brief description of project"
               class="request"
@@ -1368,6 +1369,7 @@
     window.addEventListener("load", animateCountUp);
   </script>
 </html>
+
 
 
 

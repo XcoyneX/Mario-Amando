@@ -1963,111 +1963,114 @@ select.label-detail {
 }
 
 /* End of Story */
-.spacer {
-  width: 100vw;
-  height: auto;
-  position: relative;
-  bottom: 0;
-  z-index: 100;
-  text-align: center;
-  margin: 0;
-  padding: 0;
+
+/* ===========================
+   FOOTER
+=========================== */
+
+.conclude {
+    background-color: #EFEFEF;
+    border-top-left-radius: 5rem;
+    border-top-right-radius: 5rem;
+    padding: 4rem 2rem;
 }
 
-.end {
-  padding: 2rem;
-  background: #222;
-  position: relative;
-  z-index: 10001;
-  width: 100vw;
-  height: fit-content;
-  color: white;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  overflow: hidden;
-}
+.footer-inner {
+    max-width: 1200px;
+    margin: 0 auto;
 
-.controls {
-  margin: 1rem 2rem;
-  display: flex;
-  justify-content: space-between;
-  overflow: hidden;
-  width: fit-content;
-}
-
-/* flexible layout on mobile for footer */
-@media screen and (max-width: 650px) {
-  .controls {
+    display: flex;
     flex-direction: column;
-    align-items: center;
+    gap: 4rem;
+}
+
+/* Top info strip */
+.reach-out {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.reach-out section span {
+    font-size: 1rem;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.reach-out section p {
+    font-size: 1.3rem;
+    color: #222;
+    font-weight: 500;
+}
+
+/* Big name */
+.tag h1 {
+    font-size: 6rem;
+    font-weight: 400;
     text-align: center;
-    gap: 3rem;
-  }
+    letter-spacing: -0.06em;
+    white-space: nowrap;
+    font-size: clamp(3rem, 9vw, 9rem);
 }
 
-.graps {
-  display: flex;
-  align-items: flex-start;
-  gap: 2rem;
+/* Bottom line */
+.legal {
+    text-align: center;
 }
 
-.knobs {
-  font-size: 1.7rem;
-  text-align: left;
+.legal span {
+    font-size: 1rem;
+    color: #666;
 }
 
-.line {
-  height: 18.75rem;
-  width: 2.5rem;
-  display: flex;
-  justify-content: center;
+@media (max-width: 768px) {
+    html {
+        font-size: 60%;
+    }
+
+    .closure {
+        grid-template-columns: 1fr;
+        padding: 3rem;
+    }
+
+    h1 {
+        font-size: 4rem;
+    }
+
+    .social-links {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .closure {
+        grid-template-columns: 1fr;
+    }
+
+    .closure-left {
+        display: none;
+    }
+
+    .contact-right {
+        width: 100%;
+    }
+
+    .reach-out {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .tag h1 {
+        font-size: 3.2rem;
+        letter-spacing: -0.02em;
+    }
+
+    .conclude {
+        padding: 3rem 1.5rem;
+    }
 }
 
-.vertical {
-  width: 0.15rem;
-  height: 50%;
-  background-color: white;
-}
 
-.handles {
-  display: flex;
-  justify-content: space-between;
-  align-items: start;
-  gap: 5rem;
-}
-
-.handles a,
-.lever p {
-  color: #ccc;
-  transition: color 0.15s ease-in;
-  cursor: default;
-}
-
-.handles a:hover {
-  color: white;
-}
-
-.lever p:hover {
-  color: whitesmoke;
-}
-
-.identity {
-  overflow: visible;
-  margin: 0;
-  padding: 0;
-}
-
-.alias {
-  font-weight: bolder;
-  color: white;
-  font-size: 12.7vw;
-  margin: 0;
-  padding: 0;
-  overflow: visible;
-  max-width: 1000px;
-  height: fit-content;
-  line-height: 0.9;
-}
 
 
 

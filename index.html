@@ -1231,7 +1231,7 @@
           <!-- Full name -->
           <article class="name">
             <label for="full name">Full name</label>
-            <input type="text" id="text" placeholder="Mario Amando" class="request" />
+            <input type="text" id="text" name="fullName" placeholder="Mario Amando" class="request" required/>
           </article>
 
           <!-- Email -->
@@ -1241,20 +1241,22 @@
               type="email"
               id="email"
               placeholder="marioamando@gmail.com"
+              name="email"
               class="request"
+              required
             />
           </article>
 
           <!-- Budget -->
           <article class="budget">
-            <label for="budget">Budget</label>
-            <select class="request">
+            <label>Budget</label>
+            <select name="budget" class="request" required>
               <option>Select your budget range</option>
               <option>
                 $25,000 - $50,000 → Basic starter home, compact layout.
               </option>
               <option>
-                $50,000 – $10,000 → Mid-range family home, modest finished,
+                $50,000 – $100,000 → Mid-range family home, modest finished,
                 comfortable size.
               </option>
               <option>
@@ -1272,13 +1274,13 @@
           <!-- Phone -->
           <article class="phone">
             <label for="Phones">Phone</label>
-            <input type="tel" id="Phone" placeholder="233559599154" class="request" />
+            <input type="tel" id="Phone" name="phone" placeholder="233559599154" class="request" />
           </article>
 
           <!-- Project -->
           <article class="project">
             <label for="Projects">Project</label>
-            <select class="request">
+            <select name="project" class="request" required>
               <option>Residential</option>
               <option>Commercial</option>
               <option>Industrial</option>
@@ -1290,8 +1292,10 @@
           <article class="message">
             <label for="Message">Send us a message</label>
             <textarea
-              placeholder="Brief description of project"
+              placeholder="Brief description of project."
+              name="message"
               class="request"
+              required
             ></textarea>
           </article>
 
